@@ -1,6 +1,6 @@
 Here are the results from the multiple methods of calculating the square root
 
-
+The results of each method are run one hundred times, wherin they calculate the square root of numbers 1-100
 
 
 Main.py
@@ -8,5 +8,7 @@ Average:
 
 Babylonian Method
 Average:
+The average for Babylonian Times was 0.008799417018890381
+The average for Their Times was 1.9478797912597657e-05
 
 
