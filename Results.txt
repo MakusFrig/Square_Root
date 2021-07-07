@@ -1,0 +1,12 @@
+Here are the results from the multiple methods of calculating the square root
+
+
+
+
+Main.py
+Average:
+
+Babylonian Method
+Average:
+
+
