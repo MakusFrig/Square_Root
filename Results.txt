@@ -5,6 +5,9 @@ The results of each method are run one hundred times, wherin they calculate the 
 
 Main.py
 Average:
+The average for My Times was 0.01495393991470337
+The average for Their Times was 2.048492431640625e-05
+
 
 Babylonian Method
 Average:
