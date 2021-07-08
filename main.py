@@ -33,7 +33,7 @@ def square_root(x):
     for i in range(100):
         if prev**2 < x:
             prev += 1*10**depth
-        if prev2**2 > x:
+        if prev**2 > x:
             prev -= 1*10**depth
             depth-=1
         if prev**2 == x:
